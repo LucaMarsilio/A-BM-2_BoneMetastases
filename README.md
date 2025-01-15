@@ -2,14 +2,17 @@
 
 Introduction
 ==========================
-This repository stores the Matlab code for the development of an Agent Based Model (ABM) able to reproduce the growth of pre-established bone metastases and their response to Radium 223 (Rad-223) and cabozantinib as a versatile platform to test therapeutic treatments. This project is carried out with the collaboration between the Politecnico di Milano (Milan, Italy), the Houston Methodist Research Institute (Tx, USA) and the University of Texas MD Anderson Cancer Center (Tx, USA). Previous works of this group can be seen in these publications:
+This repository archives Matlab code for the development of a spatially explicit, in vivo-inspired, multicellular agent-based model called A(BM)2 that effectively recapitulates key aspects of tumor progression (including angiogenesis and bone resorption) and response to therapy. This project is based on a collaboration between Politecnico di Milano (Milan, Italy), Houston Methodist Research Institute (Houston, TX, USA), and the University of Texas MD Anderson Cancer Center (Houston, TX, USA). Previous work by this group is reported in these publications:
 
-- "Casarin S, Dondossola E., "*An agent-based model of prostate Cancer bone metastasis progression and response to Radium223.*," BMC Cancer. 2020 Jun 29;20(1):605. doi: 10.1186/s12885-020-07084-w. PMID: 32600282; PMCID: PMC7325060."
+Dondossola E, Casarin S, Paindelli C, De-Juan-Pardo EM, Hutmacher DW, Logothetis CJ, Friedl P. Radium 223-Mediated Zonal Cytotoxicity of Prostate Cancer in Bone. J Natl Cancer Inst. 2019 Oct; 111(10):1042-1050. PMID: 30657953.
 
-- "Dondossola E, Casarin S, Paindelli C, De-Juan-Pardo EM, Hutmacher DW, Logothetis CJ, Friedl P., "*Radium 223-Mediated Zonal Cytotoxicity of Prostate Cancer in Bone.*," J Natl Cancer Inst. 2019 Oct 1;111(10):1042-1050. doi: 10.1093/jnci/djz007. PMID: 30657953; PMCID: PMC6792112."
+Casarin S, Dondossola E. An agent-based model of prostate Cancer bone metastasis progression and response to Radium223. BMC Cancer. 2020 Jun; 20(1):605. PMID: 32600282.
 
+Paindelli C, Casarin S, Wang F, Diaz-Gomez L, Zhang J, Mikos AG, Logothetis CJ, Friedl P, Dondossola E. Enhancing Radium 223 treatment efficacy by anti-beta 1 integrin targeting. J Nucl Med. 2022 Jul; 63(7):1039-1045. PMID: 34711616.
 
-![Immagine1](https://user-images.githubusercontent.com/85581432/197823023-d6458d83-96d3-46dc-850b-76d5bcacee01.png)
+Bektemessov Z, Cherfils L, Allery C, Berger J, Serafini E, Dondossola E, Casarin S. On a data-driven mathematical model for prostate cancer bone metastasis. AIMS Mathematics 2024; Vol.9 Issue 12: 34785-34805.
+
+![Immagine1](https://github.com/user-attachments/assets/a28098fb-30bc-4724-9eb6-fad07eb63348)
 
 Code Description
 ==========================
